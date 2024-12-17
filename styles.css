@@ -34,7 +34,7 @@ form input {
   outline: none;
 }
 form button {
-  background: rgb(41, 177, 41);
+  background: #4d4d4d;
   padding: 10px 40px;
   border: none;
   outline: none;
@@ -52,7 +52,7 @@ form .searchIcon {
 }
 .limitedOffer {
   font-size: 20px;
-  border-bottom: 2px solid green;
+  border-bottom:  #4d4d4d;
   cursor: pointer;
 }
 .navBottom {
@@ -129,7 +129,7 @@ form .searchIcon {
   padding: 10px 20px 10px 20px;
   font-weight: 500;
   color: #fff;
-  background: green;
+  background: #4d4d4d;
   border: 1px solid rgba(181, 180, 180, 0.739);
   border-radius: 25px;
   z-index: 1;
@@ -275,7 +275,7 @@ form .searchIcon {
 }
 .productButton {
   padding: 10px 30px;
-  background-color: #055527;
+  background-color: #4d4d4d;
   color: #fff;
   outline: none;
   border: none;
